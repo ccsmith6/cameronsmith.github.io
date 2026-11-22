@@ -1,64 +1,42 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Professional summary
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Information Science student with experience in customer service and interests in data analytics, information technology, and web development. Familiar with programming, data analysis, and communicating technical information.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**University of North Carolina at Greensboro (UNCG)**  
+Bachelor of Science in Information Science  
+Minor: Video Game & E-Sports
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Technical skills
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Programming and web:** Python, SQL, HTML, CSS, R
+- **Data and productivity:** Microsoft Excel, data visualization, introductory machine learning
+- **Professional:** Customer service, teamwork, problem solving, communication
+
+## Experience
+
+**GameStop — Customer Service / Retail**  
+- Assisted customers with products, purchases, and questions.
+- Supported busy product launches and order fulfillment.
+
+**Delivery Driver — DoorDash and Jimmy John's**  
+- Managed deliveries and customer interactions in time-sensitive environments.
+- Used organization and communication to support reliable service.
+
+## Selected academic work
+
+- **Data Analytics:** Explored datasets and communicated findings through charts and visualizations.
+- **Machine Learning:** Practiced data preprocessing, model selection, and performance evaluation.
+- **Web Development:** Built and customized a personal portfolio website with GitHub Pages.
+
+*This is a website-friendly resume summary. Additional dates, job titles, and a downloadable PDF can be added after review.*
