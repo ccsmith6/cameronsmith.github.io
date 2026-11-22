@@ -16,7 +16,6 @@ My academic work has included Python programming, data analysis, machine learnin
 ## Explore my work
 
 - [**Resume**]({{ '/cv/' | relative_url }}) — Education, experience, and technical skills.
-- [**Portfolio**]({{ '/portfolio/' | relative_url }}) — Selected projects and coursework.
 - [**Contact**]({{ '/contact/' | relative_url }}) — Ways to connect.
 
 ## Skills and interests
